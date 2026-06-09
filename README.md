@@ -1,9 +1,10 @@
 ReadMe for the MassDEP PFAS TK Model 
+
 Emma Spady, 2025-11-06 
+
 Goals 
-This manual is meant to assist in running the population PFAS TK model developed by the 
-O
-ice of Research and Standards at the Massachusetts Department of Environmental 
+
+This manual is meant to assist in running the population PFAS TK model developed by the Ofice of Research and Standards at the Massachusetts Department of Environmental 
 Protection. This document is not intended to stand alone – please refer to the manuscript 
 for the purpose and applications of the model.  
 Basic Instructions 
